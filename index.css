@@ -1,0 +1,21 @@
+body
+{
+
+}
+.navigation-bar
+{
+  background-image: linear-gradient(to right,violet,cyan,violet);
+}
+.body
+{
+/*	border: 2px solid black;*/
+	height: 700px;
+	width: 100%;
+}
+.h2
+{
+	color: #e882ff;
+	font-weight: bolder;
+	text-shadow: 5px 5px 7px violet;
+	font-size: 50px;
+}
